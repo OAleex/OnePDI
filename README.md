@@ -1,5 +1,7 @@
 # OnePDI
 
+![OnePDI](https://s11.gifyu.com/images/SgXiv.gif)
+
 ## Descrição
 O projeto `OnePDI` é uma aplicação Java que permite extrair cores específicas de uma imagem e realizar operações de extração, como a extração de contorno, nome, caveira e chapéu.
 
